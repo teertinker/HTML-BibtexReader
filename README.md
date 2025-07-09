@@ -1,4 +1,4 @@
-# HTML-BibtexReader
+# HTML-BibtexReader for JabRef
 BibTeX Reader for JabRef generated files.
 
 Simple HTML File that reads your Bibtex-Files and makes them easily readable browser.

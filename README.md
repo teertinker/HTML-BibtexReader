@@ -12,7 +12,7 @@ The html file is supposed to allow a quick access of my bib database with my sma
 
 # Features
 - No installation needed
-  - Just download the html file and open it.
+  - Just download the html file and open it from your local storage.
 - Supports special JabRef fields (Rank, Prio)
 - Open bib files from any location
 - Pin certain entries for later reading

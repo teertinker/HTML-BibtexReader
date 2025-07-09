@@ -11,6 +11,8 @@ Simple HTML File that reads your Bibtex-Files and makes them easily readable bro
 The html file is supposed to allow a quick access of my bib database with my smartphone
 
 # Features
+- No installation needed
+  - Just download the html file and open it.
 - Supports special JabRef fields (Rank, Prio)
 - Open bib files from any location
 - Pin certain entries for later reading
